@@ -46,3 +46,15 @@ a:hover {
   padding: 50px;
   text-align: center;
 }
+#footer {
+  background: black;
+  color: white;
+  font-size 20px;
+  padding: 50px;
+}
+#footer a {
+  color: grey;
+}
+#footer a:hover {
+  color: white;
+}
