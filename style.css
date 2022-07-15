@@ -3,18 +3,18 @@ body{
   background: FF9F29;
   color: FF9F29;
   font-size: 25px;
-  font-family: Courier;
+  font-family: 'Lobster Two', cursive;
   margin-bottom: 0;
 }
 h1{
-  font-family: sans-serif;
+  font-family: 'Arima', cursive;
   color: 000000;
   font-weight: lighter;
   font-weight: bolder;
   font-size: 50px;
 }
 h2 {
-  font-family: Arial;
+  font-family: 'Arima', cursive;
   color: 1A4D2E;
   font-weight: lighter;
   font-size: 35px;
